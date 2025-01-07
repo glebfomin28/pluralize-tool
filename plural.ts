@@ -1,6 +1,9 @@
+type SpecialCases = Record<number, string>;
+type Titles = string[];
+
 const cases = [2, 0, 1, 1, 1, 2];
 
-function plural(number, titles, specialCases) {
+function plural(number: number, titles: Titles, specialCases?: SpecialCases): string {
   if (specialCases?.[number] !== undefined) {
     return specialCases[number];
   }

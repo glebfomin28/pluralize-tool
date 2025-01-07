@@ -1,8 +1,7 @@
 {
   "name": "pluralize-tool",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "plural.js",
-  "types": "index.d.ts",
   "description": "A simple tool to pluralize words in different forms based on number.",
   "keywords": [
     "plural",
@@ -18,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/glebfomin28/pluralize-tool/issues"
   },
-  "homepage": "https://github.com/glebfomin28/pluralize-tool#readme"
+  "homepage": "https://github.com/glebfomin28/pluralize-tool#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
 }
