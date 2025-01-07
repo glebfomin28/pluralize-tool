@@ -1,6 +1,6 @@
 {
   "name": "pluralize-tool",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple tool to pluralize words in different forms based on number.",
   "keywords": [
     "plural",
@@ -20,7 +20,7 @@
   "scripts": {
     "build": "tsc"
   },
-  "main": "src/index.js",
+  "main": "src/plural.js",
   "exports": {
     ".": {
       "import": "./src/index.js",
