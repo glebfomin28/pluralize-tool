@@ -4,4 +4,4 @@ type Titles = string[];
 
 declare function plural(number: number, titles: Titles, specialCases?: SpecialCases): string;
 
-export = plural;
+export default plural
