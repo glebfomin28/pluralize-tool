@@ -1,6 +1,6 @@
 {
   "name": "pluralize-tool",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "plural.ts",
   "description": "A simple tool to pluralize words in different forms based on number.",
   "keywords": [
