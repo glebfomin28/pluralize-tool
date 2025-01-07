@@ -1,0 +1,16 @@
+.idea/
+.DS_Store
+*.log
+node_modules
+package-lock.json
+.npm
+.nyc_output
+dist
+.dockerignore
+.*.dockerfile
+lib/
+package.json.lerna_backup
+/*.iml
+tsconfig.tsbuildinfo
+coverage
+

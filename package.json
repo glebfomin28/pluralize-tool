@@ -1,0 +1,23 @@
+{
+  "name": "pluralize-tool",
+  "version": "0.0.1",
+  "description": "A simple tool to pluralize words in different forms based on number.",
+  "keywords": [
+    "plural",
+    "pluralize",
+    "pluralize-tool"
+  ],
+  "author": "Gleb Fomin <gleb.fom28@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glebfomin28/pluralize-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/glebfomin28/pluralize-tool/issues"
+  },
+  "homepage": "https://github.com/glebfomin28/pluralize-tool#readme",
+  "scripts": {
+    "build": "tsc"
+  }
+}
