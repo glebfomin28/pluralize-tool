@@ -1,5 +1,5 @@
 type SpecialCases = Record<number, string>;
-type Titles = string[];
+type Titles = [string, string, string];
 
 const cases = [2, 0, 1, 1, 1, 2];
 

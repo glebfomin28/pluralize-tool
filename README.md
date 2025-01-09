@@ -1,6 +1,6 @@
 # pluralize-tool
 
-`pluralize-tool` is a simple utility for pluralizing words based on the number. It handles pluralization rules, special cases, and works for languages like Russian, where the word form changes depending on the number.
+`pluralize-tool` is a simple utility for pluralizing words based on the number. It handles pluralization rules, special cases, and works for languages like `Russian`, where the word form changes depending on the number.
 
 
 ## Installation
