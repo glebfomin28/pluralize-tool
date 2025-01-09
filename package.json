@@ -1,8 +1,9 @@
 {
   "name": "pluralize-tool",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "main": "plural.ts",
-  "description": "A simple tool to pluralize words in different forms based on number.",
+  "types": "plural.ts",
+  "description": "A simple utility to handle word pluralization based on number, optimized for Russian language rules.",
   "keywords": [
     "plural",
     "pluralize",
